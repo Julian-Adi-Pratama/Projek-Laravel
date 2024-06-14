@@ -1,0 +1,221 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+
+.jakartha {
+    font-size: 50px;
+    font-family: 'Rancho', cursive;
+    color: brown;
+    letter-spacing: 150px;
+    margin-left: 150px;
+}
+
+.logo {
+
+    display: flex;
+    justify-content: left;
+    background-color: black;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.logo a {
+    text-decoration-line: none;
+    color: brown;
+}
+
+.logo a:hover {
+    color: white;
+    transition: all .2s ease-in-out;
+}
+
+nav h1 {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: brown;
+    font-family: 'Rancho', cursive;
+    letter-spacing: 10px;
+}
+
+nav img {
+    width: 100%;
+    border-radius: 50px;
+
+
+
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+ul li {
+
+    padding-right: 40px;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: brown;
+    font-size: 50px;
+    font-family: 'Titan One', sans-serif;
+}
+
+nav ul li a:hover {
+    font-size: 40px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    transition: all .2s ease-in-out;
+}
+
+.judul {
+    font-size: 50px;
+    color: crimson;
+    font-family: 'Bebas Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 10px;
+
+}
+
+.sejarah {
+    margin-right: 100px;
+    border: solid 3px white;
+    border-radius: 30px;
+    box-shadow: 2px 1px 10px gray;
+    margin-top: 30px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+
+span {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+
+.geografis {
+    border: solid 3px white;
+    border-radius: 30px;
+    box-shadow: 2px 1px 10px gray;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+
+main img {
+    width: 50%;
+    height: border;
+    border-radius: 50px;
+}
+
+.wisata h2 {
+    color: aqua;
+    font-size: 35px;
+    font-family: 'Lilita One', sans-serif;
+}
+
+.wisata {
+    border: solid 3px white;
+    border-radius: 30px;
+    box-shadow: 2px 1px 10px gray;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+
+footer aside {
+    border: solid 3px white;
+    border-radius: 30px;
+    box-shadow: 2px 1px 10px gray;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+
+
+
+}
+
+footer aside img {
+
+    width: 50%;
+    height: 100%;
+    border-radius: 50px;
+
+}
+
+
+
+footer aside ul li {
+
+    padding-top: 30px;
+
+}
+
+.ig {
+
+    width: 10%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ig a {
+
+    font-size: 20px;
+    color: brown;
+}
+
+.ins {
+
+    display: flex;
+}
+
+
+.aboutmee {
+    font-size: 50px;
+    font-family: 'Lilita One', sans-serif;
+    color: brown;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.biyo {
+    font-size: 20px;
+}
+
+
+
+
+h6 a {
+    font-size: 35px;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 5px;
+}
+
+h6 a:hover {
+    color: red;
+    transition: .2s ease-in;
+
+}
